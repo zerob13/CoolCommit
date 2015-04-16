@@ -1,0 +1,22 @@
+{
+  "name": "coolcommit",
+  "version": "0.0.1",
+  "description": "generate a cool commit for git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerob13/CoolCommit"
+  },
+  "keywords": [
+    "git", "cool", "funny", "tool", "toys", "cli"
+  ],
+  "author": "zerob13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerob13/CoolCommit/issues"
+  },
+  "homepage": "https://github.com/zerob13/CoolCommit"
+}
