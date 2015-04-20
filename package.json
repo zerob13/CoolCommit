@@ -11,12 +11,20 @@
     "url": "https://github.com/zerob13/CoolCommit"
   },
   "keywords": [
-    "git", "cool", "funny", "tool", "toys", "cli"
+    "git",
+    "cool",
+    "funny",
+    "tool",
+    "toys",
+    "cli"
   ],
   "author": "zerob13",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zerob13/CoolCommit/issues"
   },
-  "homepage": "https://github.com/zerob13/CoolCommit"
+  "homepage": "https://github.com/zerob13/CoolCommit",
+  "dependencies": {
+    "cowsay": "^1.0.3"
+  }
 }
